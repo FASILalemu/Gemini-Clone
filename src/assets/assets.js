@@ -13,6 +13,8 @@ import message_icon from './message_icon.png'
 import code_icon from './code_icon.png'
 import send_icon from './send_icon.png'
 import gemini_icon from './gemini_icon.png'
+// import user_icon from './10001.svg'
+
 
 export const assets = {
     history_icon,
